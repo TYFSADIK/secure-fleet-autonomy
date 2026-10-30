@@ -1,0 +1,2 @@
+cryptography>=42
+# live links: pymavlink>=2.4
